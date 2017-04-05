@@ -1,1 +1,1 @@
-# logpub
+# logpub - publishes log files to Kafka
